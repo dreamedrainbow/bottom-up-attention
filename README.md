@@ -1,5 +1,5 @@
 # bottom-up-attention
-use the briliiant repo extractin bbox features for object-based methods.
+Use the briliiant repo extractin bbox features for object-based methods.
 
 This code implements a bottom-up attention model, based on multi-gpu training of Faster R-CNN with ResNet-101, using object and attribute annotations from [Visual Genome](http://visualgenome.org/).
 
